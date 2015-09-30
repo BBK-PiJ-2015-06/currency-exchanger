@@ -33,5 +33,6 @@ while (!finished) {
 	  println "Sorry, that is not a valid option";
     }	  
 }
-println "Exiting the program";
+println "Exiting the program George";
+println "Definitely finished"
 
